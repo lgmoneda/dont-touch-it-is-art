@@ -4,6 +4,6 @@
 
 
 <p align="center">
-   <img src="https://giphy.com/gifs/digital-art-processing-generative-Kd6EJVQVgcW1c6U9KY"/><br>
+   <img src="https://media.giphy.com/media/Kd6EJVQVgcW1c6U9KY/source.gif"/><br>
    <i>worms.pde</i>
 </p>
